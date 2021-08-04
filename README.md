@@ -3,7 +3,11 @@
 </div>
 
 ##
-  
+
+![Snake animation](https://github.com/Groot-cmd/Groot-cmd/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 <div>
   <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
