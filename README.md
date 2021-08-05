@@ -4,9 +4,10 @@
 	<img src="https://user-images.githubusercontent.com/66273682/128272335-8d74bbca-a352-43e5-9ac4-d4bbfdc21de4.gif">
 	</div>
 	<p></p>
-	<div>
+	<div align="center">
 	<a href="https://github.com/Groot-cmd"><img src="https://github-readme-stats.vercel.app/api?username=Groot-cmd&count_private=true&show_icons=true&theme=tokyonight"></a>
 	</div>
+	<p></p>
 	<div>
 	<img src="https://github.com/Groot-cmd/Groot-cmd/blob/output/github-contribution-grid-snake.svg">		
 	</div>
