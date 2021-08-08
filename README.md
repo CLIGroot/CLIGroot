@@ -1,7 +1,7 @@
 
 <body>
 	<div align="center">
-	<img src="https://user-images.githubusercontent.com/66273682/128272335-8d74bbca-a352-43e5-9ac4-d4bbfdc21de4.gif">
+	<img width="100%" src="https://user-images.githubusercontent.com/66273682/128272335-8d74bbca-a352-43e5-9ac4-d4bbfdc21de4.gif">
 	</div>
 	<p></p>
 	<div align="center">
