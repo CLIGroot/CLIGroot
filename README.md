@@ -5,14 +5,14 @@
 	</div>
 	<p></p>
 	<div align="center">
-	<a href="https://github.com/Groot-cmd"><img src="https://github-readme-stats.vercel.app/api?username=Groot-cmd&count_private=true&show_icons=true&theme=tokyonight"></a>
+	<a href="https://github.com/CLIGroot"><img src="https://github-readme-stats.vercel.app/api?username=CLIGroot&count_private=true&show_icons=true&theme=tokyonight"></a>
 	</div>
 	<p></p>
 	<div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=Groot-cmd&theme=nord&column=7">
+	<img src="https://github-profile-trophy.vercel.app/?username=CLIGroot&theme=nord&column=7">
 	</div>
 	<div align="center">
-	<img src="https://github.com/Groot-cmd/Groot-cmd/blob/output/github-contribution-grid-snake.svg">		
+	<img src="https://github.com/CLIGroot/CLIGroot/blob/output/github-contribution-grid-snake.svg">		
 	</div>
 </body>
 
