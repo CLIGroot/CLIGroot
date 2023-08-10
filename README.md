@@ -2,7 +2,7 @@
 <body>
 	</div>
 	<div align="center">
-	<img src="https://github.com/CLIGroot/CLIGroot/blob/output/github-contribution-grid-snake.svg">		
+	<img src="https://github.com/gabrielfveras/gabrielfveras/blob/output/github-contribution-grid-snake.svg">		
 	</div>
 </body>
 
